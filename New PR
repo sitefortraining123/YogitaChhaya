@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customer Portal</title>
+</head>
+<body>
+
+    <h1>Customer Portal</h1>
+
+    <p>Welcome to the customer portal.</p>
+
+    <button>Search Customer</button>
+
+</body>
+</html>
