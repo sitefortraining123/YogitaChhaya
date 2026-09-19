@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me- Via Linkedin
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
